@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1512475359 source:d:\studies\cs\projects\this\main.cpp
+	<iostream>
+	"Dog.h"
+
+1512475397 d:\studies\cs\projects\this\dog.h
+

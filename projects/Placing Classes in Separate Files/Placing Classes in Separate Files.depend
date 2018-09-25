@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1512468559 source:d:\studies\cs\projects\placing classes in separate files\cat.cpp
+	"Cat.h"
+	<iostream>
+
+1512468511 d:\studies\cs\projects\placing classes in separate files\cat.h
+

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "intro to stacks", "intro to stacks\intro to stacks.vcxproj", "{5ADFA03F-98CB-4326-BA50-1F1FCAD88AF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5ADFA03F-98CB-4326-BA50-1F1FCAD88AF3}.Debug|x64.ActiveCfg = Debug|x64
+		{5ADFA03F-98CB-4326-BA50-1F1FCAD88AF3}.Debug|x64.Build.0 = Debug|x64
+		{5ADFA03F-98CB-4326-BA50-1F1FCAD88AF3}.Debug|x86.ActiveCfg = Debug|Win32
+		{5ADFA03F-98CB-4326-BA50-1F1FCAD88AF3}.Debug|x86.Build.0 = Debug|Win32
+		{5ADFA03F-98CB-4326-BA50-1F1FCAD88AF3}.Release|x64.ActiveCfg = Release|x64
+		{5ADFA03F-98CB-4326-BA50-1F1FCAD88AF3}.Release|x64.Build.0 = Release|x64
+		{5ADFA03F-98CB-4326-BA50-1F1FCAD88AF3}.Release|x86.ActiveCfg = Release|Win32
+		{5ADFA03F-98CB-4326-BA50-1F1FCAD88AF3}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A729545-E1FB-4099-8773-BBBB61F21E25}
+	EndGlobalSection
+EndGlobal

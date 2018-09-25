@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1512473859 source:d:\studies\cs\projects\deconstructors\main.cpp
+	<iostream>
+	"student.h"
+
+1512473934 d:\studies\cs\projects\deconstructors\student.h
+
